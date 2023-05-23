@@ -1,0 +1,75 @@
+---------------------------------------------------------------------------------------------------------
+CustomEncodedFileParser.py
+=======================
+
+Description:
+------------
+This script provides functions for reading and parsing an encoded file, extracting sections, and 
+retrieving specific sections from the parsed data.
+
+Usage:
+------
+- Modify the value of `ENCODED_FILE_PATH` to specify the path of the encoded file to be processed.
+
+Functions:
+----------
+1. read_lines_from_file(file_path)
+    - Reads the contents of the file and returns a list of lines.
+    - Args:
+        - file_path (str): The path of the file to be read.
+    - Returns:
+        - list: A list of lines read from the file.
+
+2. filter_valid_lines(lines)
+    - Filters out empty lines and comment lines from a list of lines.
+    - Args:
+        - lines (list): The list of lines to be filtered.
+    - Returns:
+        - list: The filtered list of lines.
+
+3. extract_sections(lines)
+    - Extracts sections from the lines based on a delimiter and returns a dictionary of sections.
+    - Args:
+        - lines (list): The list of lines to extract sections from.
+    - Returns:
+        - dict: A dictionary where the keys are section titles and the values are lists of lines 
+                belonging to each section.
+
+4. parse_encoded_file(file_path)
+    - Parses the encoded file and returns its sections as a dictionary.
+    - Args:
+        - file_path (str): The path of the encoded file to be parsed.
+    - Returns:
+        - dict: A dictionary representing the parsed sections of the encoded file.
+
+5. get_section_data(file_path, section_title, return_list=False, return_str=False)
+    - Retrieves a specific section from the parsed encoded file and returns it in the specified format.
+    - Args:
+        - file_path (str): The path of the encoded file.
+        - section_title (str): The title of the section to retrieve.
+        - return_list (bool, optional): Whether to return the section as a list of lines. 
+                                        Defaults to False.
+        - return_str (bool, optional): Whether to return the section as a single string with 
+                                        line breaks. Defaults to False.
+    - Returns:
+        - list or str: The section data in the specified format.
+    - Raises:
+        - KeyError: If the specified section title is not found in the parsed data.
+        - TypeError: If the return type is not specified or if both return_list and return_str are True.
+
+Usage Example:
+--------------
+1. Retrieve a section as a list of lines:
+    section_data = get_section_data(ENCODED_FILE_PATH, 'Section1', return_list=True)
+    print(section_data)
+
+2. Retrieve a section as a string with line breaks:
+    section_data = get_section_data(ENCODED_FILE_PATH, 'Section2', return_str=True)
+    print(section_data)
+
+Note:
+-----
+- This script assumes that the encoded file follows a specific format with sections 
+    delimited by '$$$' and comment lines starting with '#'.
+- Modify the functions as needed to suit your specific requirements.
+---------------------------------------------------------------------------------------------------------

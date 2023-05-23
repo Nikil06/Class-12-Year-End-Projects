@@ -1,0 +1,112 @@
+$$$ MENU
+
+ ============================================================================
+|                         CELESTIAL MARK: MAIN MENU                          |
+ ============================================================================
+|                                                                            |
+|   [1] ONE PLAYER MODE                  {}      |
+|                                        {}      |
+|   [2] TWO PLAYER MODE                  {}      |
+|                                        {}      |
+|   [3] LORE OF THE MARK                 {}      |
+|                                        {}      |
+|   [4] CREDITS PAGE                     {}      |
+|                                        {}      |
+|   [5] QUIT                             {}      |
+|                                                                            |
+ ============================================================================
+|   Play CELESTIAL MARK, presently known as TIC-TAC-TOE to reveal the [???]  |
+ ============================================================================
+
+$$$ GAME BOARD UI
+
+ ============================================================================
+|                               CELESTIAL MARK                               |
+ ============================================================================
+|                                                                            |
+|                         =======================                            |
+|                        |       |       |       |                           |
+|                        |  {}  |  {}  |  {}  |                           |
+|                        |       |       |       |                           |
+|                         -----------------------                            |
+|                        |       |       |       |                           |
+|                        |  {}  |  {}  |  {}  |                           |
+|                        |       |       |       |                           |
+|                         -----------------------                            |
+|                        |       |       |       |                           |
+|                        |  {}  |  {}  |  {}  |                           |
+|                        |       |       |       |                           |
+|                         =======================                            |
+|                                                                            |
+ ============================================================================
+
+$$$ LORE HEADER
+
+  ============================================================================
+|                   CELESTIAL MARK: SIBLINGS OF THE STARS                    |
+ ============================================================================
+|                                                                            |
+|   Press 'Enter' to continue to next paragraph                              |
+|         's'     to skip to end of the lore                                 |
+|         'm'     to get back to main menu                                   |
+|                                                                            |
+
+$$$ LORE STORY
+
+Long ago, in a forgotten era of ancient civilizations, a legendary tale was whispered from village to village about the birth of Tic Tac Toe. It was said that the game was a gift from the gods themselves, bestowed upon two gifted siblings, Ava and Liam.
+Ava possessed a brilliant mind, while Liam was blessed with extraordinary artistic talent. Together, they embarked on a quest to create a game that would entertain and challenge the masses. Inspired by the celestial patterns they observed in the night sky, they devised a game board of nine squares, representing the stars of the heavens.
+They imbued the game with mystical symbols—X, a symbol of strength and dominance, and O, representing the eternal cycle of life. Legends spoke of the magical energies that coursed through these symbols, carrying the essence of cosmic power. As the siblings played their creation, the lines formed by X's and O's seemed to echo ancient symbols of destiny and fate. It was as if the game itself held the key to unlocking hidden knowledge and connecting the mortal realm to the celestial realm.
+As word of this extraordinary game spread, people journeyed from distant lands to witness the magical display. They believed that the winner of Tic Tac Toe would be granted divine wisdom and eternal good fortune.
+The tale grew in stature, and Ava and Liam became revered as the "Siblings of the Stars." People attributed their uncanny ability to foresee outcomes to their connection with the divine forces infused within the game. The legend further deepened when it was said that Ava and Liam could communicate with the gods through the celestial patterns formed on the Tic Tac Toe board.
+Throughout the ages, the game was passed down from generation to generation, accompanied by stories of miraculous victories and prophetic moves. People fervently believed that the ultimate master of Tic Tac Toe would gain a glimpse into the secrets of the universe.
+As time went on, the true origin of the game and the mystical abilities of Ava and Liam faded into myth. However, the legend of Tic Tac Toe endured, captivating the hearts and minds of those who reveled in its ancient allure.
+To this day, when a game of Tic Tac Toe is played, whispers of the Siblings of the Stars can still be heard in the wind, reminding us of the magic that resides within the simplest of games and the legends that weave themselves into our collective consciousness.
+
+$$$ QUOTES
+
+Astoria Valerius once said, "In the cosmic dance of Celestial Mark, each move weaves a tapestry of cosmic possibilities, shaping destinies and revealing the interplay of stars."
+Lucius Astrid, a renowned strategist, once remarked, "Within the celestial constellations of Celestial Mark, lies a boundless universe of strategic brilliance, waiting to be unveiled by the seekers of celestial victory."
+The enigmatic philosopher, Seraphina Evermore, mused, "As celestial forces collide upon the nine squares of Celestial Mark, the secrets of the cosmos unfold, painting a portrait of profound strategy and ethereal triumph."
+In the words of the legendary tactician, Orion Switchblade, "Celestial Mark, where the celestial threads of fate intertwine, offers a glimpse into the vastness of cosmic strategy and the profound artistry of celestial conquest."
+Helena Starlight, a revered celestial scholar, once proclaimed, "In the celestial realm of Celestial Mark, each X and O holds the key to unlocking the cosmic symphony, revealing the profound dance of strategy and celestial destiny."
+The renowned philosopher, Aurelius Moonshot, mused, "Celestial Mark unveils the profound connection between stars above and strategies below, where victory embodies celestial enlightenment."
+As expressed by the wise sage, Cassandra Ravensong, "In the grand celestial scheme, the battle of Celestial Mark stands as a testament to the profound philosophical question: Can a pencil-and-paper game redefine the universe?"
+Quentin Ironwood, a cheeky cosmic observer, once quipped, "Behold, the great cosmic spectacle of Celestial Mark, where the fate of galaxies hinges on the audacious placement of an X or O. Profoundly trivial."
+In sarcastic reflection, Luna Whimsywind quipped, "Amidst celestial chaos, mortals dance in Celestial Mark, seeking enlightenment in three symbols. Or maybe just bragging."
+Titus Sardonicus, a celestial cynic, dryly commented, "As mortals strive for celestial mastery in Celestial Mark, the gods roll their eyes, amused by the pursuit of profound wisdom in a game of Xs and Os."
+The mischievous trickster, Oberon Moondust, chuckled, "In the vast expanse of the cosmos, Celestial Mark poses the profound question: Can a game of Xs and Os reveal the secrets of existence, or is it just another cosmic joke?"
+Adeline Wryfox, a celestial skeptic, pondered, "In the celestial realm, mortals ponder the profound mysteries of Celestial Mark, questioning the meaning of life, the universe, and the strategic brilliance of placing Xs and Os."
+Archibald Quibbleworth, a cosmic jester, playfully declared, "In the grand celestial scheme, the battle of Celestial Mark stands as a testament to the profound philosophical question: Can a pencil-and-paper game redefine the universe?"
+Prudence Snickerbottom, a whimsical observer, mused, "As mortals strive for celestial mastery in Celestial Mark, the gods share a cosmic chuckle, entertained by the pursuit of profound wisdom in a game of Xs and Os."
+Master tactician, General Marcus Stormrider, advised, "Master the celestial battlefield of Celestial Mark through calculated moves, strategic finesse, and unwavering determination"
+"In the game of Celestial Mark, strategic deception is the key to celestial triumph. Unleash your mind, set celestial traps, and conquer the cosmos with cunning."
+The strategic genius, Lady Isabella Nightshade, shared her wisdom, "Like the ancient wisdom of Sun Tzu, in Celestial Mark, victory is attained through strategic positioning, calculated moves, and the art of outmaneuvering your celestial adversary."
+Strategist extraordinaire, Commander Maximus Ironheart, asserted, "In the celestial war of Celestial Mark, seize victory through meticulous planning, relentless strategy, and the exploitation of your opponent's celestial weaknesses."
+The esteemed tactician, Lady Seraphina Swiftwind, advised, "Timing is celestial mastery in Celestial Mark. Seize the perfect moment to strike, adapt your strategy, and claim celestial victory with precise and calculated moves."
+The sagacious Lord Ezekiel Stargazer advised, "Study celestial patterns, analyze maneuvers, adapt swiftly. In Celestial Mark, flexibility and foresight lead to triumph."
+The words of Sun Tzu resonate in Celestial Mark, "The supreme art of celestial war is to subdue your opponent without fighting." Embrace this wisdom and conquer Celestial Mark through strategic brilliance and celestial finesse."
+
+$$$ CREDITS
+
+ ============================================================================
+|                          CELESTIAL MARK: CREDITS                           |
+ ============================================================================
+|                                                                            |
+|   We extend our heartfelt thanks to all the talented individuals,          |
+|   dedicated team members,  who made this project a reality. Your           |
+|   invaluable efforts and unwavering support have been instrumental         |
+|   in our success. Thank you!                                               |
+|                                                                            |
+|   Team Members:                                                            |
+|       Nikil O Sivakumaar : Lead Developer                                  |
+|       [name 2]           : [role]                                          |
+|       [name 3]           : [role]                                          |
+|       [name 4]           : [role]                                          |
+|                                                                            |
+|   Special Thanks:                                                          |
+|       [name a]           : [role]                                          |
+|       [name b]           : [role]                                          |
+|                                                                            |
+ ============================================================================
+|                                THANK YOU                                   |
+ ============================================================================
