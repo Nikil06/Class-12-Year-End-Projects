@@ -1,0 +1,26 @@
+#######################################################################################
+# commands.csql
+
+# This is commands file with an extension of .csql which stands for custom sql
+# This file is going to be scanned by a python script and execute the sql queries
+
+# Rule - 1 : Every command should start and end within one line.
+
+# Rule - 2 : Anything which is not a query needs to be commented like shown.
+#            You can change the comment marker from '#' to what you want in config.ini
+
+# Rule - 3 : There should always be a newline/blank line at the end of the file
+
+#######################################################################################
+DROP TABLE dept;
+CREATE TABLE dept(d_no INT PRIMARY KEY, d_name VARCHAR(32) UNIQUE, location VARCHAR(32) NOT NULL);
+
+INSERT INTO dept VALUES(10, 'Accounting', 'New York');
+INSERT INTO dept VALUES(20, 'Research', 'Dallas');
+INSERT INTO dept VALUES(30, 'Sales', 'Chicago');
+INSERT INTO dept VALUES(40, 'Operations', 'Boston');
+
+SELECT * FROM dept;
+SELECT * FROM dept WHERE d_no = 30;
+
+CREATE TABLE emp(e_no INT PRIMARY KEY, e_name VARCHAR(32) NOT NULL, aadhar BIGINT UNIQUE, d_no INT, FOREIGN KEY d_no REFERENCES dept(d_no));
