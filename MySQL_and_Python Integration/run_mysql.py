@@ -142,6 +142,9 @@ def run_queries(_queries: list[str]):
                 rows = results[:]
                 cols = [col[0] for col in cursor.description]
 
+                if not cols:
+                    cols = None
+
                 table = Table(rows=rows, headers=cols)
                 render = table.get_render(TableStyles.SQL_Style)
                 render = '\n'.join('\t' + line for line in render.split('\n'))
